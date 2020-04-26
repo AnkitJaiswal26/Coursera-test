@@ -32,7 +32,7 @@ p{
     background-position: center;
 }
 .css{
-    background-image: url(file:///images.jpeg);
+    background-image: url(images.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
