@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    
+    font-family: Comic Sans MS;
+}
+body{
+   
+}
+
+h1{
+	text-align: center;
+    margin-bottom: 25px;
+}
+
+
+
+p{
+    text-justify: auto;
+    text-align: justify;
+    width:90%;
+	height: 150px;
+	border: 1px dashed black;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+	padding: 10px;
+	color:black;
+}
+.html{
+    background: url(file:///home/ankitjaiswal/191070081/Final%20Project/html-programming-code-blue-wallpaper-preview.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.css{
+    background-image: url(file:///home/ankitjaiswal/191070081/Final%20Project/images.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.js{
+    background-image: url(file:///home/ankitjaiswal/191070081/Final%20Project/announcement-node-lightblue-p4.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+span{
+    border:1px solid blue;
+    color: blue;
+    float:right;
+    background-color: FUCHSIA;
+    width:19%;
+    height:15%;
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+}
+@media(min-width: 992px)
+{
+    .lg{
+        width:33.33%;
+        float:left;
+    }
+}
+@media(min-width: 786px) and (max-width: 991px)
+{
+    .md{
+        width:50%;
+        float: left;
+        margin:auto;
+    }
+    #third{
+        width:100%;
+        
+    }
+}
+
