@@ -27,18 +27,18 @@ p{
 	color:black;
 }
 .html{
-    background: url(file:///home/ankitjaiswal/191070081/Final%20Project/html-programming-code-blue-wallpaper-preview.jpg) no-repeat;
+    background: url(file:///html-programming-code-blue-wallpaper-preview.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 .css{
-    background-image: url(file:///home/ankitjaiswal/191070081/Final%20Project/images.jpeg);
+    background-image: url(file:///images.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .js{
-    background-image: url(file:///home/ankitjaiswal/191070081/Final%20Project/announcement-node-lightblue-p4.png);
+    background-image: url(file:///announcement-node-lightblue-p4.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
