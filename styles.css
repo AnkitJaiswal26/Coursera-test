@@ -18,7 +18,7 @@ p{
     text-justify: auto;
     text-align: justify;
     width:90%;
-	height: 210px;
+    height: 210px;
 	border: 1px dashed black;
 	margin-left: auto;
 	margin-right: auto;
@@ -49,6 +49,7 @@ span{
     color: blue;
     float:right;
     background-color: FUCHSIA;
+    padding-top: 4px;
     width:19%;
     height:15%;
     text-align: center;
