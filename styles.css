@@ -70,8 +70,9 @@ span{
         margin:auto;
     }
     #third{
-        width:100%;
+        margin-left: -2.5%;
         
+        width:105%;
     }
 }
 
